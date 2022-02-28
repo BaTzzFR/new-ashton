@@ -10,7 +10,7 @@ This Discord BOT was created for the purpose of responding to support and other 
 
 ## How to use
 
-Create .env file and replace values.
+Create an .env file and replace the values.
 
 ```env
     TOKEN = <Your bot token>
@@ -18,7 +18,7 @@ Create .env file and replace values.
     PARENT = <Your server category id>
 ```
 
-On your bash type this commands.
+On your bash, type these commands.
 
 ```bash
     git clone https://github.com/BaTzzFR/new-ashton.git new-ashton
