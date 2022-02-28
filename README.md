@@ -1,12 +1,14 @@
+# New Ashton | Support
+
 This Discord BOT was created for the purpose of responding to support and other requests for the FiveM New Ashton server.
 
-# Features
+## Features
 
 * Receive messages in a private server.
 * Receive messages in the form of an embed.
 * Archive channel messages.
 
-# How to use
+## How to use
 
 Create .env file and replace values.
 
