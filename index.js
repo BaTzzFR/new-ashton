@@ -5,7 +5,7 @@ const client = new Client({intents: 32767, partials: ['MESSAGE', 'CHANNEL']});
 const mongoose = require('mongoose');
 
 const randomatic = require('randomatic');
-const Rooms = require('./modules/room');
+const Rooms = require('./room');
 
 mongoose.connect('mongodb://localhost:27017/new-ashton', 
 {useNewUrlParser: true, useUnifiedTopology: true})
