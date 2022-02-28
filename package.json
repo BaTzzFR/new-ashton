@@ -1,0 +1,20 @@
+{
+  "dependencies": {
+    "discord.js": "^13.6.0",
+    "mongoose": "^6.2.3",
+    "randomatic": "^3.1.1"
+  },
+  "devDependencies": {
+    "dotenv": "^16.0.0",
+    "nodemon": "^2.0.15"
+  },
+  "name": "new-ashton",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "author": "BaTzzFR",
+  "license": "ISC"
+}
